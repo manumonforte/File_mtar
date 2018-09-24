@@ -1,6 +1,6 @@
 # File_mtar
 
-Project corresponding to the subject Operational Systems (SO) of the Complutense University of Madrid that performs Simple C unix fileSystem.
+Project corresponding to the subject Operational Systems (SO) of the Complutense University of Madrid that performs A simple C .tar
 
 ### Prerequisites
 
